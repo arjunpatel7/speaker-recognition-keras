@@ -1,6 +1,6 @@
 ---
 title: Speaker Recognition in Keras
-emoji: {{emoji}}
+emoji: 🗣️
 colorFrom: blue
 colorTo: green
 sdk: gradio
